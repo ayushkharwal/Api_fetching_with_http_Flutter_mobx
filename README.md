@@ -1,4 +1,4 @@
-# API Fetching with http flutter package and mobx for state management 
+# API Fetching with http and mobx for State Management - Flutter 
 This Flutter project demonstrates how to fetch data using the http package and manage the state using MobX.
 
 ## App demonstration
